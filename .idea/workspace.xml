@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf971109-594a-4323-9958-483b0433bd2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/DES/triple_des.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/RC4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/RC4/rc4_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/diffie_hellman/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/diffie_hellman/diffie_hellman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/rijndael/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/rijndael/rijndael_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/rijndael/rijndael_key_schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/rijndael/rijndael_round_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/cipher_primitives/rijndael/sbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/services/galois_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/diffie_hellman_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rc4_test/rc4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rc4_test/test_files/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rc4_test/test_files/small_secret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rc4_test/test_files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rc4_test/test_files/test_doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rijndael_test/rijndael_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rijndael_test/test_files/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rijndael_test/test_files/small_secret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rijndael_test/test_files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1_2/tests/rijndael_test/test_files/test_doc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_1.jpg.enc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_1.jpg.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_small_secrets.txt.enc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_small_secrets.txt.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_test.txt.enc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_test.txt.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_test_doc.txt.enc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1_2/tests/des_test/test_files/encrypted/DES_OFB_test_doc.txt.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1_2/tests/rsa_test/test_files/encrypted/img_1.png.enc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1_2/tests/rsa_test/test_files/encrypted/img_1.png.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1_2/tests/rsa_test/test_files/encrypted/test.txt.enc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1_2/tests/rsa_test/test_files/encrypted/test.txt.enc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="39SGLuVG00szzjgFPEm7HrBsXCH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in deal_test.py.executor": "Run",
+    "Python tests.Python tests in des_test.py.executor": "Run",
+    "Python tests.Python tests in rsa_test.py.executor": "Run",
+    "Python tests.Python tests in test_number_service.py.executor": "Run",
+    "Python tests.Python tests in test_primality.py.executor": "Run",
+    "Python.des_cipher.executor": "Run",
+    "Python.des_test.executor": "Run",
+    "Python.wiener_attack_test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/senya/PycharmProjects/Cryptography_Labs/Lab1_2/tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\senya\PycharmProjects\Cryptography_Labs\Lab1_2\tests" />
+      <recent name="C:\Users\senya\PycharmProjects\Cryptography_Labs\Lab1_2\cipher_primitives\DES" />
+      <recent name="C:\Users\senya\PycharmProjects\Cryptography_Labs\Lab1_2\cipher_primitives" />
+      <recent name="C:\Users\senya\PycharmProjects\Cryptography_Labs\Lab1_2\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\senya\PycharmProjects\Cryptography_Labs\Lab1_2\tests\des_test\test_files" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf971109-594a-4323-9958-483b0433bd2a" name="Changes" comment="" />
+      <created>1770682006388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770682006388</updated>
+    </task>
+    <servers />
+  </component>
+</project>
